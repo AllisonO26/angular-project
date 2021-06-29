@@ -1,0 +1,9 @@
+td {
+    background: rgb(151, 212, 58);
+    padding: 5px;
+}
+th {
+    background: blueviolet ;
+    color: white;
+    padding: 5px;
+}
